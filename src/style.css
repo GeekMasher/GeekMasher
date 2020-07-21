@@ -1,0 +1,46 @@
+/* https://fonts.google.com/specimen/Roboto+Mono#standard-styles */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap');
+
+body {
+    margin: 0px;
+}
+
+#particles-js {
+    background-color: #eae8db;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#title {
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 4rem;
+    font-family: 'Roboto Mono', sans-serif;
+    text-align: center;
+    width: 100%;
+    margin-top: 10rem;
+}
+
+#typewriter-main {
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 2.5rem;
+    font-family: 'Roboto Mono', sans-serif;
+    text-align: center;
+    font-weight: 700;
+    width: 100%;
+    margin-top: 18rem;
+}
+
+#typewriter-info {
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 1.5rem;
+    font-family: 'Roboto Mono', sans-serif;
+    text-align: center;
+    /* display: none; */
+    width: 100%;
+    height: 5rem;
+    margin-top: 26rem;
+}
