@@ -9,6 +9,12 @@ Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitH
 - 📫 How to reach me: [@GeekMasher](https://twitter.com/geekmasher) or [@geekmasher@infosec.exchange](https://infosec.exchange/@geekmasher)
 - ⚡ Fun fact: I love to find and fix bugs in software!
 
+### Public 
+
+- [GeekMasher Blog](https://geekmasher.dev)
+- [GeekMasher YouTube Channel](https://www.youtube.com/@GeekMasher)
+- [Public Speacking / Presentation](https://github.com/GeekMasher/presentations)
+
 
 ### Current Projects
 
