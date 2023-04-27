@@ -34,7 +34,7 @@ Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitH
 - [advanced-security/policy-as-code](https://github.com/advanced-security/policy-as-code) (Python) :star: 15
   - [advanced-security-compliance](https://github.com/geekmasher/advanced-security-compliance/), old fork :star: 123
 - [advanced-security/secret-scanning-custom-patterns](https://github.com/advanced-security/secret-scanning-custom-patterns) :star: 70
-- [advanced-security/codeql-queries](https://github.com/advanced-security/codeql-queries) (CodeQL) :star: 6
+- [advanced-security/codeql-queries](https://github.com/advanced-security/codeql-queries) (CodeQL) :star: 63
   - [GeekMasher/security-codeql](https://github.com/GeekMasher/security-codeql), old fork (CodeQL) :star: 10
 - [advanced-security/gh-codeql-scan](https://github.com/advanced-security/gh-codeql-scan) (Bash) :star: 12
 - [advanced-security/codeql-summarize](https://github.com/advanced-security/codeql-summarize) (Python) :star: 4
