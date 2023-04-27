@@ -1,6 +1,5 @@
-<div align="center">
+
 [![Hey I'm Mathew. I'm a Security Guy with software developer tendencies. Check out my work](https://github.com/GeekMasher/GeekMasher/raw/master/assets/profile.gif)](https://geekmasher.dev)
-</div>
 
 Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitHub](https://github.com/).
 
