@@ -1,0 +1,82 @@
+
+- title: "Current Projects"
+  projects:
+    - name: "SecuriTree.nvim"
+      github: "GeekMasher/securitree.nvim"
+      languages:
+        - Lua
+    - name: "Quibble"
+      github: "GeekMasher/quibble"
+      languages:
+        - Rust
+    - name: "ghastoolkit"
+      github: "GeekMasher/quibble"
+      description: "GitHub Advanced Security Python Toolkit / Module"
+      languages:
+        - Python
+      pypi: "ghastoolkit"
+    - name: "ghactions"
+      github: "GeekMasher/ghactions"
+      languages:
+        - Rust
+
+- title: "Security Research"
+  projects:
+    - name: "rust-sqlx-research"
+      github: "GeekMasher/rust-sqlx-research"
+      languages:
+        - Rust
+
+    - name: "GeekMasher/security-codeql"
+      note: "Personal CodeQL Repository"
+      languages:
+        - CodeQL
+
+- title: "GitHub Open-Source Projects"
+  projects:
+    - name: "advanced-security/policy-as-code"
+      github: "advanced-security/policy-as-code"
+      languages: 
+        - Python
+    - name: "GeekMasher/advanced-security-compliance"
+      github: "GeekMasher/advanced-security-compliance"
+      languages:
+        - Python
+
+    - name: "advanced-security/secret-scanning-custom-patterns"
+
+    - name: "advanced-security/codeql-queries"
+      languages:
+        - CodeQL
+    
+    - name: "advanced-security/gh-codeql-scan"
+      languages:
+        - Bash
+
+    - name: "advanced-security/codeql-summarize"
+      languages:
+        - Python, CodeQL
+
+    - name: "advanced-security/ghas-reviewer-app"
+      languages:
+        - Python
+
+    - name: "GeekMasher/codeql-dependency-graph-action"
+      languages:
+        - Python
+
+    - name: "GeekMasher/gh-csaudit"
+      languages:
+        - Python
+
+    - name: "advanced-security/brew-dependency-submission-action"
+      languages:
+        - Python
+
+    - name: "GeekMasher/gradle-lock-dependency-submission-action"
+      languages:
+        - Python
+
+
+
+
