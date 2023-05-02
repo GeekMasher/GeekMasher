@@ -6,14 +6,17 @@ Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitH
 - 🔭 I’m currently working on securing the worlds software
 - 👯 I’m looking to collaborate on security projects
 - 💬 Ask me about security anytime
-- 📫 How to reach me: [@GeekMasher](https://twitter.com/geekmasher) or [@geekmasher@infosec.exchange](https://infosec.exchange/@geekmasher)
 - ⚡ Fun fact: I love to find and fix bugs in software!
 
 ### Public 
 
-- [GeekMasher Blog](https://geekmasher.dev)
-- [GeekMasher YouTube Channel](https://www.youtube.com/@GeekMasher)
-- [Public Speacking / Presentation](https://github.com/GeekMasher/presentations)
+| Project | Content |
+| :------ | :---: |
+| [GeekMasher Blog](https://geekmasher.dev) | |
+| YouTube | [![youtube](https://img.shields.io/youtube/channel/subscribers/UC7e94PuJo_6tMxwx6BS7dzw?style=social)](https://www.youtube.com/@GeekMasher) |
+| Twitter | [![twitter](https://img.shields.io/twitter/follow/geekmasher?style=social)](https://twitter.com/geekmasher) |
+| Mastadon | [![mastadon](https://img.shields.io/mastodon/follow/109349397892890596?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@geekmasher)
+| [Public Speacking / Presentation](https://github.com/GeekMasher/presentations) | |
 
 <!-- PROJECTS -->
 ### Current Projects
