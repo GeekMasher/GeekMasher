@@ -27,8 +27,8 @@ for top_project in projects:
 
     OUTPUT += f"### {title}\n\n"
     
-    OUTPUT += "| Project (languages) | Stars |\n"
-    OUTPUT += "| :------------------ | :---: |\n"
+    OUTPUT += "| Project (languages) | Stars / Activity |\n"
+    OUTPUT += "| :------------------ | :--------------: |\n"
 
     for project in top_project.get("projects", []):
         name = project.get("name")
@@ -41,11 +41,12 @@ for top_project in projects:
         description = project.get("description", note)
 
         badge = f"https://img.shields.io/github/stars/{repository}?style=flat-square"
+        activity = f"https://img.shields.io/github/last-commit/{repository}?style=flat-square"
 
         languages = ", ".join(project.get("languages", []))
 
         # OUTPUT += f"- [{name}]({url}) - ![{repository} badge]({badge})\n"
-        OUTPUT += f"| [{name}]({url}) ({languages})| ![]({badge}) |\n"
+        OUTPUT += f"| [{name}]({url}) ({languages})| ![]({badge}) - ![activity]({activity}) |\n"
 
     OUTPUT += "\n"
 
