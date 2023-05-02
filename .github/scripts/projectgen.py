@@ -28,7 +28,7 @@ for top_project in projects:
     OUTPUT += f"### {title}\n\n"
     
     OUTPUT += "| Project (languages) | Stars / Activity |\n"
-    OUTPUT += "| :------------------ | :--------------: |\n"
+    OUTPUT += "| :------------------ | :--------------- |\n"
 
     for project in top_project.get("projects", []):
         name = project.get("name")

@@ -29,6 +29,7 @@
 
     - name: "GeekMasher/security-codeql"
       note: "Personal CodeQL Repository"
+      hide: true
       languages:
         - CodeQL
 

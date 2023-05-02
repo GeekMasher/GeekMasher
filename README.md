@@ -22,7 +22,7 @@ Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitH
 ### Current Projects
 
 | Project (languages) | Stars / Activity |
-| :------------------ | :--------------: |
+| :------------------ | :--------------- |
 | [SecuriTree.nvim](https://github.com/GeekMasher/securitree.nvim) (Lua)| ![](https://img.shields.io/github/stars/GeekMasher/securitree.nvim?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/securitree.nvim?style=flat-square) |
 | [Quibble](https://github.com/GeekMasher/quibble) (Rust)| ![](https://img.shields.io/github/stars/GeekMasher/quibble?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/quibble?style=flat-square) |
 | [ghastoolkit](https://github.com/GeekMasher/quibble) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/quibble?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/quibble?style=flat-square) |
@@ -31,14 +31,13 @@ Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitH
 ### Security Research
 
 | Project (languages) | Stars / Activity |
-| :------------------ | :--------------: |
+| :------------------ | :--------------- |
 | [rust-sqlx-research](https://github.com/GeekMasher/rust-sqlx-research) (Rust)| ![](https://img.shields.io/github/stars/GeekMasher/rust-sqlx-research?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/rust-sqlx-research?style=flat-square) |
-| [GeekMasher/security-codeql](https://github.com/GeekMasher/security-codeql) (CodeQL)| ![](https://img.shields.io/github/stars/GeekMasher/security-codeql?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/security-codeql?style=flat-square) |
 
 ### GitHub Open-Source Projects
 
 | Project (languages) | Stars / Activity |
-| :------------------ | :--------------: |
+| :------------------ | :--------------- |
 | [advanced-security/policy-as-code](https://github.com/advanced-security/policy-as-code) (Python)| ![](https://img.shields.io/github/stars/advanced-security/policy-as-code?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/advanced-security/policy-as-code?style=flat-square) |
 | [GeekMasher/advanced-security-compliance](https://github.com/GeekMasher/advanced-security-compliance) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/advanced-security-compliance?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/advanced-security-compliance?style=flat-square) |
 | [advanced-security/secret-scanning-custom-patterns](https://github.com/advanced-security/secret-scanning-custom-patterns) (Regex, Python)| ![](https://img.shields.io/github/stars/advanced-security/secret-scanning-custom-patterns?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/advanced-security/secret-scanning-custom-patterns?style=flat-square) |
