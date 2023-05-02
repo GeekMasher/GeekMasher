@@ -15,33 +15,37 @@ Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitH
 - [GeekMasher YouTube Channel](https://www.youtube.com/@GeekMasher)
 - [Public Speacking / Presentation](https://github.com/GeekMasher/presentations)
 
-
+<!-- PROJECTS -->
 ### Current Projects
 
-- [SecuriTree.nvim](https://github.com/GeekMasher/securitree.nvim) (Lua) :star: 10
-- [Quibble](https://github.com/GeekMasher/quibble) (Rust) :star: 2
-- [ghastoolkit](https://github.com/GeekMasher/ghastoolkit) (Python) :star: 4
-- [ghactions](https://github.com/GeekMasher/ghactions) (Rust) :star: 2
+| Project | Stars | Language(s) |
+| :------ | :---: | :---------- |
+| [SecuriTree.nvim](https://github.com/GeekMasher/securitree.nvim) | ![](https://img.shields.io/github/stars/GeekMasher/securitree.nvim?style=flat-square) | Lua |
+| [Quibble](https://github.com/GeekMasher/quibble) | ![](https://img.shields.io/github/stars/GeekMasher/quibble?style=flat-square) | Rust |
+| [ghastoolkit](https://github.com/GeekMasher/quibble) | ![](https://img.shields.io/github/stars/GeekMasher/quibble?style=flat-square) | Python |
+| [ghactions](https://github.com/GeekMasher/ghactions) | ![](https://img.shields.io/github/stars/GeekMasher/ghactions?style=flat-square) | Rust |
 
+### Security Research
 
-**Security Research:**
+| Project | Stars | Language(s) |
+| :------ | :---: | :---------- |
+| [rust-sqlx-research](https://github.com/GeekMasher/rust-sqlx-research) | ![](https://img.shields.io/github/stars/GeekMasher/rust-sqlx-research?style=flat-square) | Rust |
+| [GeekMasher/security-codeql](https://github.com/GeekMasher/security-codeql) | ![](https://img.shields.io/github/stars/GeekMasher/security-codeql?style=flat-square) | CodeQL |
 
-- [rust-sqlx-research](https://github.com/GeekMasher/rust-sqlx-research) (Rust)
+### GitHub Open-Source Projects
 
+| Project | Stars | Language(s) |
+| :------ | :---: | :---------- |
+| [advanced-security/policy-as-code](https://github.com/advanced-security/policy-as-code) | ![](https://img.shields.io/github/stars/advanced-security/policy-as-code?style=flat-square) | Python |
+| [GeekMasher/advanced-security-compliance](https://github.com/GeekMasher/advanced-security-compliance) | ![](https://img.shields.io/github/stars/GeekMasher/advanced-security-compliance?style=flat-square) | Python |
+| [advanced-security/secret-scanning-custom-patterns](https://github.com/advanced-security/secret-scanning-custom-patterns) | ![](https://img.shields.io/github/stars/advanced-security/secret-scanning-custom-patterns?style=flat-square) |  |
+| [advanced-security/codeql-queries](https://github.com/advanced-security/codeql-queries) | ![](https://img.shields.io/github/stars/advanced-security/codeql-queries?style=flat-square) | CodeQL |
+| [advanced-security/gh-codeql-scan](https://github.com/advanced-security/gh-codeql-scan) | ![](https://img.shields.io/github/stars/advanced-security/gh-codeql-scan?style=flat-square) | Bash |
+| [advanced-security/codeql-summarize](https://github.com/advanced-security/codeql-summarize) | ![](https://img.shields.io/github/stars/advanced-security/codeql-summarize?style=flat-square) | Python, CodeQL |
+| [advanced-security/ghas-reviewer-app](https://github.com/advanced-security/ghas-reviewer-app) | ![](https://img.shields.io/github/stars/advanced-security/ghas-reviewer-app?style=flat-square) | Python |
+| [GeekMasher/codeql-dependency-graph-action](https://github.com/GeekMasher/codeql-dependency-graph-action) | ![](https://img.shields.io/github/stars/GeekMasher/codeql-dependency-graph-action?style=flat-square) | Python |
+| [GeekMasher/gh-csaudit](https://github.com/GeekMasher/gh-csaudit) | ![](https://img.shields.io/github/stars/GeekMasher/gh-csaudit?style=flat-square) | Python |
+| [advanced-security/brew-dependency-submission-action](https://github.com/advanced-security/brew-dependency-submission-action) | ![](https://img.shields.io/github/stars/advanced-security/brew-dependency-submission-action?style=flat-square) | Python |
+| [GeekMasher/gradle-lock-dependency-submission-action](https://github.com/GeekMasher/gradle-lock-dependency-submission-action) | ![](https://img.shields.io/github/stars/GeekMasher/gradle-lock-dependency-submission-action?style=flat-square) | Python |
+<!-- PROJECTS -->
 
-**GitHub Open-Source Projects:**
-
-- [advanced-security/policy-as-code](https://github.com/advanced-security/policy-as-code) (Python) :star: 15
-  - [advanced-security-compliance](https://github.com/geekmasher/advanced-security-compliance/), old fork :star: 123
-- [advanced-security/secret-scanning-custom-patterns](https://github.com/advanced-security/secret-scanning-custom-patterns) :star: 70
-- [advanced-security/codeql-queries](https://github.com/advanced-security/codeql-queries) (CodeQL) :star: 63
-  - [GeekMasher/security-codeql](https://github.com/GeekMasher/security-codeql), old fork (CodeQL) :star: 10
-- [advanced-security/gh-codeql-scan](https://github.com/advanced-security/gh-codeql-scan) (Bash) :star: 12
-- [advanced-security/codeql-summarize](https://github.com/advanced-security/codeql-summarize) (Python) :star: 4
-- [advanced-security/ghas-reviewer-app](https://github.com/advanced-security/ghas-reviewer-app) (Python) :star: 14
-- [GeekMasher/codeql-dependency-graph-action](https://github.com/GeekMasher/codeql-dependency-graph-action) (Python)
-- [GeekMasher/gh-csaudit](https://github.com/geekmasher/gh-csaudit) (Python)
-- [advanced-security/brew-dependency-submission-action](https://github.com/advanced-security/brew-dependency-submission-action) (Python)
-- [GeekMasher/gradle-lock-dependency-submission-action](https://github.com/GeekMasher/gradle-lock-dependency-submission-action) (Python)
-
-<!--  -->
