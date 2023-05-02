@@ -29,5 +29,6 @@
 | [advanced-security/ghas-reviewer-app](https://github.com/advanced-security/ghas-reviewer-app) (Python)| ![](https://img.shields.io/github/stars/advanced-security/ghas-reviewer-app?style=flat-square) |
 | [advanced-security/brew-dependency-submission-action](https://github.com/advanced-security/brew-dependency-submission-action) (Python)| ![](https://img.shields.io/github/stars/advanced-security/brew-dependency-submission-action?style=flat-square) |
 | [GeekMasher/gradle-lock-dependency-submission-action](https://github.com/GeekMasher/gradle-lock-dependency-submission-action) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/gradle-lock-dependency-submission-action?style=flat-square) |
-
+| [GeekMasher/gh-csaudit](https://github.com/GeekMasher/gh-csaudit) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/gh-csaudit?style=flat-square) |
+| [GeekMasher/codeql-dependency-graph-action](https://github.com/GeekMasher/codeql-dependency-graph-action) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/codeql-dependency-graph-action?style=flat-square) |
 
