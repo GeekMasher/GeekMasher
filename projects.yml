@@ -10,11 +10,12 @@
       languages:
         - Rust
     - name: "ghastoolkit"
-      github: "GeekMasher/quibble"
+      github: "GeekMasher/ghastoolkit"
       description: "GitHub Advanced Security Python Toolkit / Module"
       languages:
         - Python
       pypi: "ghastoolkit"
+
     - name: "ghactions"
       github: "GeekMasher/ghactions"
       languages:

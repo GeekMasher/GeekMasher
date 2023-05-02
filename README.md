@@ -25,7 +25,7 @@ Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitH
 | :------------------ | :--------------- |
 | [SecuriTree.nvim](https://github.com/GeekMasher/securitree.nvim) (Lua)| ![](https://img.shields.io/github/stars/GeekMasher/securitree.nvim?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/securitree.nvim?style=flat-square) |
 | [Quibble](https://github.com/GeekMasher/quibble) (Rust)| ![](https://img.shields.io/github/stars/GeekMasher/quibble?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/quibble?style=flat-square) |
-| [ghastoolkit](https://github.com/GeekMasher/quibble) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/quibble?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/quibble?style=flat-square) |
+| [ghastoolkit](https://github.com/GeekMasher/ghastoolkit) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/ghastoolkit?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/ghastoolkit?style=flat-square) |
 | [ghactions](https://github.com/GeekMasher/ghactions) (Rust)| ![](https://img.shields.io/github/stars/GeekMasher/ghactions?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/ghactions?style=flat-square) |
 
 ### Security Research
