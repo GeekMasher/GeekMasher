@@ -44,6 +44,9 @@
         - Python
 
     - name: "advanced-security/secret-scanning-custom-patterns"
+      languages:
+        - Regex
+        - Python
 
     - name: "advanced-security/codeql-queries"
       languages:
@@ -61,14 +64,6 @@
       languages:
         - Python
 
-    - name: "GeekMasher/codeql-dependency-graph-action"
-      languages:
-        - Python
-
-    - name: "GeekMasher/gh-csaudit"
-      languages:
-        - Python
-
     - name: "advanced-security/brew-dependency-submission-action"
       languages:
         - Python
@@ -77,6 +72,13 @@
       languages:
         - Python
 
+    - name: "GeekMasher/gh-csaudit"
+      hide: true
+      languages:
+        - Python
 
-
+    - name: "GeekMasher/codeql-dependency-graph-action"
+      hide: true
+      languages:
+        - Python
 

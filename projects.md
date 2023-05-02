@@ -1,21 +1,5 @@
+# Projects
 
-[![Hey I'm Mathew. I'm a Security Guy with software developer tendencies. Check out my work](https://github.com/GeekMasher/GeekMasher/raw/master/assets/profile.gif)](https://geekmasher.dev)
-
-Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitHub](https://github.com/).
-
-- 🔭 I’m currently working on securing the worlds software
-- 👯 I’m looking to collaborate on security projects
-- 💬 Ask me about security anytime
-- 📫 How to reach me: [@GeekMasher](https://twitter.com/geekmasher) or [@geekmasher@infosec.exchange](https://infosec.exchange/@geekmasher)
-- ⚡ Fun fact: I love to find and fix bugs in software!
-
-### Public 
-
-- [GeekMasher Blog](https://geekmasher.dev)
-- [GeekMasher YouTube Channel](https://www.youtube.com/@GeekMasher)
-- [Public Speacking / Presentation](https://github.com/GeekMasher/presentations)
-
-<!-- PROJECTS -->
 ### Current Projects
 
 | Project (languages) | Stars |
@@ -45,7 +29,5 @@ Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitH
 | [advanced-security/ghas-reviewer-app](https://github.com/advanced-security/ghas-reviewer-app) (Python)| ![](https://img.shields.io/github/stars/advanced-security/ghas-reviewer-app?style=flat-square) |
 | [advanced-security/brew-dependency-submission-action](https://github.com/advanced-security/brew-dependency-submission-action) (Python)| ![](https://img.shields.io/github/stars/advanced-security/brew-dependency-submission-action?style=flat-square) |
 | [GeekMasher/gradle-lock-dependency-submission-action](https://github.com/GeekMasher/gradle-lock-dependency-submission-action) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/gradle-lock-dependency-submission-action?style=flat-square) |
-<!-- PROJECTS -->
 
-[All / Additional Projects](https://github.com/GeekMasher/GeekMasher/blob/master/projects.md)
 

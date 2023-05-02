@@ -5,7 +5,7 @@ import argparse
 
 parser = argparse.ArgumentParser("ProjectGenerator")
 parser.add_argument("-p", "--project", default="./projects.yml")
-
+parser.add_argument("-d", "--display-all", action="store_true")
 
 arguments = parser.parse_args()
 
@@ -21,13 +21,20 @@ OUTPUT = ""
 
 for top_project in projects:
     title = top_project.get("title")
-    OUTPUT += f"### {title}\n\n"
 
-    OUTPUT += "| Project | Stars | Language(s) |\n"
-    OUTPUT += "| :------ | :---: | :---------- |\n"
+    if not arguments.display_all and top_project.get("hide", False):
+        continue
+
+    OUTPUT += f"### {title}\n\n"
+    
+    OUTPUT += "| Project (languages) | Stars |\n"
+    OUTPUT += "| :------------------ | :---: |\n"
 
     for project in top_project.get("projects", []):
         name = project.get("name")
+        if not arguments.display_all and project.get("hide", False):
+            continue
+
         repository = project.get("github", name)
         url = f"https://github.com/{repository}"
         note = project.get("note", "")
@@ -37,9 +44,8 @@ for top_project in projects:
 
         languages = ", ".join(project.get("languages", []))
 
-
         # OUTPUT += f"- [{name}]({url}) - ![{repository} badge]({badge})\n"
-        OUTPUT += f"| [{name}]({url}) | ![]({badge}) | {languages} |\n"
+        OUTPUT += f"| [{name}]({url}) ({languages})| ![]({badge}) |\n"
 
     OUTPUT += "\n"
 
