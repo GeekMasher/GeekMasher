@@ -9,6 +9,10 @@
       github: "GeekMasher/quibble"
       languages:
         - Rust
+    - name: "Gungnir"
+      github: "GeekMasher/gungnir"
+      languages:
+        - Python
     - name: "ghastoolkit"
       github: "GeekMasher/ghastoolkit"
       description: "GitHub Advanced Security Python Toolkit / Module"
@@ -67,6 +71,10 @@
         - Python
 
     - name: "advanced-security/brew-dependency-submission-action"
+      languages:
+        - Python
+
+    - name: "advanced-security/cocoapods-dependency-submission-action"
       languages:
         - Python
 
