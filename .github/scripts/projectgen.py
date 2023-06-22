@@ -5,9 +5,24 @@ import argparse
 
 parser = argparse.ArgumentParser("ProjectGenerator")
 parser.add_argument("-p", "--project", default="./projects.yml")
+parser.add_argument("-o", "--output", default="./README.md")
 parser.add_argument("-d", "--display-all", action="store_true")
 
 arguments = parser.parse_args()
+
+def updateMarkdown(path: str, content: str, placeholder: str = "PROJECTS"):
+    with open(path, "r") as handle:
+        data = handle.read()
+
+    start_placeholder = f"<!-- {placeholder} -->"
+    start = data.index(start_placeholder)
+    end_placeholder = f"<!-- {placeholder} END -->"
+    end = data.index(end_placeholder)
+
+    new_data = data[:start + len(start_placeholder)] + "\n" + content + "\n" + data[end:]
+
+    with open(path, "w") as handle:
+        handle.write(new_data)
 
 if not os.path.exists(arguments.project):
     print(f"Project file does not exist...")
@@ -50,5 +65,6 @@ for top_project in projects:
 
     OUTPUT += "\n"
 
-print(OUTPUT)
+
+updateMarkdown(arguments.output, OUTPUT)
 
