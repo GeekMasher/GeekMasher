@@ -20,6 +20,11 @@
         - Python
       pypi: "ghastoolkit"
 
+    - name: "CodeQL Queries"
+      github: "GeekMasher/security-codeql"
+      languages:
+        - CodeQL
+
     - name: "ghactions"
       github: "GeekMasher/ghactions"
       languages:
