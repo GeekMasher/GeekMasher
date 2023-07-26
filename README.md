@@ -1,6 +1,6 @@
 [![Hey I'm Mathew. I'm a Security Guy with software developer tendencies. Check out my work](https://github.com/GeekMasher/GeekMasher/raw/master/assets/profile.gif)](https://geekmasher.dev)
 
-Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitHub](https://github.com/).
+Hi I'm Mathew or GeekMasher, a Principal Field Security Specialist working at [GitHub](https://github.com/) (your looking at it).
 
 - 🔭 I’m currently working on securing the worlds software
 - 👯 I’m looking to collaborate on security projects
