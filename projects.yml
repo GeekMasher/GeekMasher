@@ -54,6 +54,11 @@
       languages:
         - Python
 
+    - name: "advanced-security/codeql-extractor-iac"
+      languages:
+        - CodeQL
+        - Rust
+
     - name: "advanced-security/secret-scanning-custom-patterns"
       languages:
         - Regex
@@ -96,4 +101,3 @@
       hide: true
       languages:
         - Python
-
