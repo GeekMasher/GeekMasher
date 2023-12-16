@@ -1,6 +1,10 @@
-
 - title: "Current Projects"
   projects:
+    - name: "DevSecInspect.nvim"
+      github: "GeekMasher/DevSecInspect.nvim"
+      languages:
+        - Lua
+
     - name: "SecuriTree.nvim"
       github: "GeekMasher/securitree.nvim"
       languages:
@@ -47,7 +51,7 @@
   projects:
     - name: "advanced-security/policy-as-code"
       github: "advanced-security/policy-as-code"
-      languages: 
+      languages:
         - Python
     - name: "GeekMasher/advanced-security-compliance"
       github: "GeekMasher/advanced-security-compliance"
@@ -67,7 +71,7 @@
     - name: "advanced-security/codeql-queries"
       languages:
         - CodeQL
-    
+
     - name: "advanced-security/gh-codeql-scan"
       languages:
         - Bash
