@@ -101,6 +101,11 @@
       languages:
         - Python
 
+    - name: "advanced-security/sarif-toolkit"
+      hide: true
+      languages:
+        - Python
+
     - name: "GeekMasher/codeql-dependency-graph-action"
       hide: true
       languages:

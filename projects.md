@@ -5,6 +5,7 @@
 
 | Project (languages) | Stars / Activity |
 | :------------------ | :--------------- |
+| [DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim) (Lua)| ![](https://img.shields.io/github/stars/GeekMasher/DevSecInspect.nvim?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/DevSecInspect.nvim?style=flat-square) |
 | [SecuriTree.nvim](https://github.com/GeekMasher/securitree.nvim) (Lua)| ![](https://img.shields.io/github/stars/GeekMasher/securitree.nvim?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/securitree.nvim?style=flat-square) |
 | [Quibble](https://github.com/GeekMasher/quibble) (Rust)| ![](https://img.shields.io/github/stars/GeekMasher/quibble?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/quibble?style=flat-square) |
 | [Gungnir](https://github.com/GeekMasher/gungnir) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/gungnir?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/gungnir?style=flat-square) |
@@ -25,6 +26,7 @@
 | :------------------ | :--------------- |
 | [advanced-security/policy-as-code](https://github.com/advanced-security/policy-as-code) (Python)| ![](https://img.shields.io/github/stars/advanced-security/policy-as-code?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/advanced-security/policy-as-code?style=flat-square) |
 | [GeekMasher/advanced-security-compliance](https://github.com/GeekMasher/advanced-security-compliance) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/advanced-security-compliance?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/advanced-security-compliance?style=flat-square) |
+| [advanced-security/codeql-extractor-iac](https://github.com/advanced-security/codeql-extractor-iac) (CodeQL, Rust)| ![](https://img.shields.io/github/stars/advanced-security/codeql-extractor-iac?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/advanced-security/codeql-extractor-iac?style=flat-square) |
 | [advanced-security/secret-scanning-custom-patterns](https://github.com/advanced-security/secret-scanning-custom-patterns) (Regex, Python)| ![](https://img.shields.io/github/stars/advanced-security/secret-scanning-custom-patterns?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/advanced-security/secret-scanning-custom-patterns?style=flat-square) |
 | [advanced-security/codeql-queries](https://github.com/advanced-security/codeql-queries) (CodeQL)| ![](https://img.shields.io/github/stars/advanced-security/codeql-queries?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/advanced-security/codeql-queries?style=flat-square) |
 | [advanced-security/gh-codeql-scan](https://github.com/advanced-security/gh-codeql-scan) (Bash)| ![](https://img.shields.io/github/stars/advanced-security/gh-codeql-scan?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/advanced-security/gh-codeql-scan?style=flat-square) |
@@ -34,8 +36,8 @@
 | [advanced-security/cocoapods-dependency-submission-action](https://github.com/advanced-security/cocoapods-dependency-submission-action) (Python)| ![](https://img.shields.io/github/stars/advanced-security/cocoapods-dependency-submission-action?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/advanced-security/cocoapods-dependency-submission-action?style=flat-square) |
 | [GeekMasher/gradle-lock-dependency-submission-action](https://github.com/GeekMasher/gradle-lock-dependency-submission-action) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/gradle-lock-dependency-submission-action?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/gradle-lock-dependency-submission-action?style=flat-square) |
 | [GeekMasher/gh-csaudit](https://github.com/GeekMasher/gh-csaudit) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/gh-csaudit?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/gh-csaudit?style=flat-square) |
+| [advanced-security/sarif-toolkit](https://github.com/advanced-security/sarif-toolkit) (Python)| ![](https://img.shields.io/github/stars/advanced-security/sarif-toolkit?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/advanced-security/sarif-toolkit?style=flat-square) |
 | [GeekMasher/codeql-dependency-graph-action](https://github.com/GeekMasher/codeql-dependency-graph-action) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/codeql-dependency-graph-action?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/codeql-dependency-graph-action?style=flat-square) |
 
 
 <!-- PROJECTS END -->
-
