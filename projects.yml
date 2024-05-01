@@ -1,6 +1,10 @@
-
 - title: "Current Projects"
   projects:
+    - name: "DevSecInspect.nvim"
+      github: "GeekMasher/DevSecInspect.nvim"
+      languages:
+        - Lua
+
     - name: "SecuriTree.nvim"
       github: "GeekMasher/securitree.nvim"
       languages:
@@ -47,12 +51,17 @@
   projects:
     - name: "advanced-security/policy-as-code"
       github: "advanced-security/policy-as-code"
-      languages: 
+      languages:
         - Python
     - name: "GeekMasher/advanced-security-compliance"
       github: "GeekMasher/advanced-security-compliance"
       languages:
         - Python
+
+    - name: "advanced-security/codeql-extractor-iac"
+      languages:
+        - CodeQL
+        - Rust
 
     - name: "advanced-security/secret-scanning-custom-patterns"
       languages:
@@ -62,7 +71,7 @@
     - name: "advanced-security/codeql-queries"
       languages:
         - CodeQL
-    
+
     - name: "advanced-security/gh-codeql-scan"
       languages:
         - Bash
@@ -92,8 +101,12 @@
       languages:
         - Python
 
-    - name: "GeekMasher/codeql-dependency-graph-action"
+    - name: "advanced-security/sarif-toolkit"
       hide: true
       languages:
         - Python
 
+    - name: "GeekMasher/codeql-dependency-graph-action"
+      hide: true
+      languages:
+        - Python
