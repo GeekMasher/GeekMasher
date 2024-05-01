@@ -1,6 +1,6 @@
 [![Hey I'm Mathew. I'm a Security Guy with software developer tendencies. Check out my work](https://github.com/GeekMasher/GeekMasher/raw/master/assets/profile.gif)](https://geekmasher.dev)
 
-Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitHub](https://github.com/).
+Hi I'm Mathew or GeekMasher, a [Principal Field Security Specialist at GitHub](https://github.com/) and [Founder of 42ByteLabs](https://42bytelabs.com).
 
 - 🔭 I’m currently working on securing the worlds software
 - 👯 I’m looking to collaborate on security projects
@@ -9,13 +9,44 @@ Hi I'm Mathew or GeekMasher, a Senior Field Security Specialist working at [GitH
 
 ### Public
 
-| Project                                                                        |                                                                              Content                                                                              |
-| :----------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [GeekMasher Blog](https://geekmasher.dev)                                      |                                                                                                                                                                   |
-| YouTube                                                                        |            [![youtube](https://img.shields.io/youtube/channel/subscribers/UC7e94PuJo_6tMxwx6BS7dzw?style=social)](https://www.youtube.com/@GeekMasher)            |
-| Twitter                                                                        |                            [![twitter](https://img.shields.io/twitter/follow/geekmasher?style=social)](https://twitter.com/geekmasher)                            |
-| Mastadon                                                                       | [![mastadon](https://img.shields.io/mastodon/follow/109349397892890596?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@geekmasher) |
-| [Public Speacking / Presentation](https://github.com/GeekMasher/presentations) |                                                                                                                                                                   |
+<table>
+    <tr>
+        <td>
+            <a href="https://geekmasher.dev">
+                <img src="./assets/banner-geekmasher.png" />
+            </a>
+        </td>
+        <td>
+            <a href="https://42bytelabs.com">
+                <img src="./assets/banner-42.png" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://youtube.com/@GeekMasher">
+                <img src="./assets/banner-yt.png" />
+            </a>
+        </td>
+        <td>
+            <a href="https://twitch.com/GeekMasher">
+                <img src="./assets/banner-twitch.png" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://twitter.com/GeekMasher">
+                <img src="./assets/banner-x.png" />
+            </a>
+        </td>
+        <td>
+            <a href="https://infosec.exchange/@geekmasher">
+                <img src="./assets/banner-mastodon.png" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 <!-- PROJECTS -->
 
