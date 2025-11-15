@@ -1,6 +1,6 @@
 [![Hey I'm Mathew. I'm a Security Guy with software developer tendencies. Check out my work](https://github.com/GeekMasher/GeekMasher/raw/master/assets/profile.gif)](https://geekmasher.dev)
 
-Hi I'm Mathew or GeekMasher, a [Principal Field Security Specialist at GitHub](https://github.com/) and [Founder of 42ByteLabs](https://42bytelabs.com).
+Hi I'm Mathew or GeekMasher, a [Field Engineer at XBOW](https://xbow.com/) and [Founder of 42ByteLabs](https://42bytelabs.com).
 
 - 🔭 I’m currently working on securing the worlds software
 - 👯 I’m looking to collaborate on security projects
